@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041548188851",
+    "project_id": "sg-iiti",
+    "storage_bucket": "sg-iiti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041548188851:android:0c4bd80ed9933bbfa724c6",
+        "android_client_info": {
+          "package_name": "com.example.gymkhana_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041548188851-5jasmu06mr3avatbnd4tv7k72j1i77fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYKffLXlRJaYw_gB5tJcCIyN_dmjR4_18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041548188851-5jasmu06mr3avatbnd4tv7k72j1i77fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
